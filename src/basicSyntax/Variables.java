@@ -3,7 +3,6 @@ package basicSyntax;
 public class Variables {
 
 	public static void main(String[] args) {
-		// TODO 自動生成されたメソッド・スタブ
 
         // 好きな数字を代入
         int num1 = 22;
