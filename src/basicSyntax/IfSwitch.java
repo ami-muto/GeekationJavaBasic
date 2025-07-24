@@ -10,7 +10,7 @@ public class IfSwitch {
 		//		numが3の倍数の場合："3の倍数です。"
 		//		numが上記に当てはまらない場合："どちらでもありません。"
 
-		int num = 20;
+int num = 20;
 
 		if (num % 2 == 0) {
 			System.out.println("2の倍数です");
